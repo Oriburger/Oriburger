@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2rO6n29vCW8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <!--
 **Oriburger/Oriburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
