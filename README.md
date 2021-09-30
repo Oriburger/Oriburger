@@ -6,7 +6,7 @@
 
 > **Notion Page**🍩 : [Link](https://oriburger.notion.site/Study-Note-3b5b604dd6b74c8bbad2b17a9cab2928)
 
-> **Naver Blog**🥩 : [Link](blog.naver.com/uss425)
+> **Naver Blog**🥩 : [Link](https://blog.naver.com/uss425)
 
 > **Tistory Blog**🌭 : [Link](https://oriburger.tistory.com/)
 
