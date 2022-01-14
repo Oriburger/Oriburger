@@ -5,7 +5,7 @@
 > I'm a student who's interested in  **Unreal_Engine4**  and   **C/C++** .
 
 
-### 📞Contacts
+### 📜 Contact me & Blog 
 <p>
   <a href="http://blog.naver.com/uss425" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="mailto:uss425@gmail.com" target="_blank"><img src="https://img.shields.io/badge/uss425@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
