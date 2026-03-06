@@ -73,6 +73,6 @@
 </p>
 
 ### 📁 Key Projects
-- **BackStreet - 3D 액션 로그라이트**: 인디게임 개발팀 리드, 클라이언트 개발 총괄
-- **GA를 활용한 3D 플랫포머 맵 절차적 생성**: 10만 세대 비동기 학습 시뮬레이션 기반 맵 생성 시스템 개발 (출원 번호 : 10-2024-0128357)
-- **Dream Clovers - 청소년들 위한 VR 진로체험 플랫폼**: VR 환경 내 드로우 콜 최적화로 60fps 프레임 및 30ms 이하 레이턴시 구현
+- **[🔗BackStreet - 3D 액션 로그라이트](https://team-backstreet-2nd.github.io/backstreet.github.io/)**: 팀 리딩 및 클라이언트 총괄, 20회 이상의 프로덕션 릴리즈 관리
+- **[🔗GA 3D Procedural Generator](https://github.com/Oriburger/ue5-genetic-algorithm-map-generator)**: 10만 세대 비동기 시뮬레이션 기반 맵 생성 엔진 (특허 보유)
+- **[🔗Dream Clovers VR Platform](https://github.com/SWM13DoDream/DreamBox)**: UE5 최적화를 통해 60fps 및 30ms 이하 레이턴시 구현
