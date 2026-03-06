@@ -21,12 +21,3 @@
   <img src="https://img.shields.io/badge/Problem Solving-00BCB4?style=flat-square&logo=thealgorithms&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-
-<!-- #### ⭐ Projects -->
-
-<p>
- 
- [![Oriburger's solved.ac stats](http://mazassumnida.wtf/api/pastel/generate_badge?boj=uss425)](https://solved.ac/uss425) <br>
- [![Oriburger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oriburger)](https://github.com/Oriburger/github-readme-stats)
-
-</p>
