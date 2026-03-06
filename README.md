@@ -75,8 +75,18 @@
 
 ### 📜 Contact & Blog 
 <p>
+  <a href="https://www.linkedin.com/in/backstreetjaeho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="http://blog.naver.com/uss425" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="mailto:uss425@gmail.com" target="_blank"><img src="https://img.shields.io/badge/uss425@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:uss425@gmail.com" target="_blank"><img src="https://img.shields.io/badge/uss425@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://solved.ac/uss425" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-0A66C2?style=flat-square&logo=codeforces&logoColor=white"/></a>
-  <a href="https://oriburger.notion.site/Study-Note-3b5b604dd6b74c8bbad2b17a9cab2928" target="_blank"><img src="https://img.shields.io/badge/Notion-512DA8?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
+
+| 날짜 | 제목 | 비고 |
+| :--- | :--- | :--- |
+| 2025.12 | [25년 4분기 회고, 돌아보는 2025년](https://blog.naver.com/uss425/224129531986) | 취업/회고 |
+| 2023.09 | [[UE5] 데이터테이블 기반의 액터/에셋 관리 방법](https://blog.naver.com/uss425/223208321236) | - |
+| 2023.05 | [[인공지능] GA와 다양한 알고리즘을 활용한 TSP 근사해 도출](https://blog.naver.com/uss425/223090411252) | - |
+| 2022.12 | [[UE4] VR 콘텐츠 내에서의 계단 구현](https://blog.naver.com/uss425/222958609183) | - |
+| 2022.10 | [[UE4][C++] 언리얼 VR 프로젝트에서의 매끄러운 Loading 화면 구성](https://blog.naver.com/uss425/222899434411) | - |
+| 2022.03 | [[UE4] 3번째 게임 프로젝트 : Mousprint 🐁](https://blog.naver.com/uss425/222681222086) | - |
+| 2021.01 | [[알고리즘] DFS 응용 Part.3 - 강결합 요소(1) (SCC, Strongly Connected Components)](https://blog.naver.com/uss425/222193890263) | - |
