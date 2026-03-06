@@ -66,7 +66,7 @@
 | **2024** | 인디크래프트 챌린저 부문 Top.20 선정 | BackStreet |
 | **2023** | SIGN(대학생 인디게임 네트워크) 우수 구현상 수상 | BackStreet |
 | **2021** | 제1회 이븐아이 게임톤 우수상 수상 | War Magician |
-| **Earlier** | 한국 IT정책경영학회 학술대회 최우수상 | 아이트래킹을 활용한 스마트독서대 |
+| **Earlier** | 한국 IT정책경영학회 학술대회 최우수상 | 아이트래킹을 활용한 스마트독서대 [🔗KCI vol.12, no.3, pp. 1825-1832, 2020](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002601737)|
 | **Earlier** | 숭실대학교 창의공학설계 우수상 수상 | 아이트래킹을 활용한 스마트독서대 |
 | **Earlier** | 정보올림피아드 지역대회 동상 및 장려상 수상 | - |
 | **Earlier** | 국민대학교 알고리즘 대회 장려상 수상 | - |
