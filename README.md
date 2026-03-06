@@ -12,15 +12,6 @@
 - **Expertise**: C/C++ 기반의 저수준 최적화와 Unreal Engine을 활용한 고성능 시뮬레이션 환경 구축에 강점이 있습니다.
 - **Philosophy**: 개발자는 책상이 아닌 현장에서 답을 찾아야 한다고 믿습니다. 3년간 인디 게임 팀을 이끌며 기술을 넘어선 서비스의 완결성을 증명해 왔습니다.
 
----
-
-### 📜 Contact & Blog 
-<p>
-  <a href="http://blog.naver.com/uss425" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="mailto:uss425@gmail.com" target="_blank"><img src="https://img.shields.io/badge/uss425@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://solved.ac/uss425" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-0A66C2?style=flat-square&logo=codeforces&logoColor=white"/></a>
-  <a href="https://oriburger.notion.site/Study-Note-3b5b604dd6b74c8bbad2b17a9cab2928" target="_blank"><img src="https://img.shields.io/badge/Notion-512DA8?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
 
 ### 🎓 Education & Activities
 - **Soongsil University**: 소프트웨어 학부 학사 졸업 (2019.03 ~ 2026.02)
@@ -28,26 +19,7 @@
 - **지역지능화혁신인재양성 학생창의자율과제 연구활동** - : GA를 활용한 3D 플랫포머 맵 절차적 생성 개발 및 특허 출원 (2024.03 ~ 2024.08)
 - **소프트웨어 마에스트로 13기**: 학생 대상의 VR 진로 체험 플랫폼 'Dream Clovers' 개발 (2022.04 ~ 2022.11)
 
-### 🏆 Awards & Honors
-| 연도 | 수상 및 선정 내역 | 프로젝트/비고 |
-| :--- | :--- | :--- |
-| **2025** | 숭실대학교 Pre-스타트업 최우수 창업팀 선정 (2위) | BackStreet |
-| **2025** | GIGDC(글로벌 인디 게임 제작 경진대회) 일반부 제작 부문 은상 | BackStreet |
-| **2025** | KOCCA(한국콘텐츠진흥원) 지원사업 우수게임 선정 | BackStreet |
-| **2025** | KOCCA(한국콘텐츠진흥원) 인디게임 제작지원 사업 선정 | BackStreet |
-| **2025** | GDWC(게임 개발 월드 챔피언십) 수상 후보 노미네이트 | BackStreet |
-| **2025** | 서울게임공모전 최종 수상 후보 노미네이트 | BackStreet |
-| **2025** | 스마일게이트 멤버십(SGM) 17기 선정 | BackStreet |
-| **2024** | 숭실대학교 창업경진대회 대상 수상 | BackStreet |
-| **2024** | 유전 알고리즘(GA) 기반 3D 절차적 맵 생성 시스템 특허 출원 | 출원 번호 : 10-2024-0128357 |
-| **2024** | 인디크래프트 챌린저 부문 Top.20 선정 | BackStreet |
-| **2023** | SIGN(대학생 인디게임 네트워크) 우수 구현상 수상 | BackStreet |
-| **2021** | 제1회 이븐아이 게임톤 우수상 수상 | War Magician |
-| **Earlier** | 한국 IT정책경영학회 학술대회 최우수상 | 아이트래킹을 활용한 스마트독서대 |
-| **Earlier** | 숭실대학교 창의공학설계 우수상 수상 | 아이트래킹을 활용한 스마트독서대 |
-| **Earlier** | 정보올림피아드 지역대회 동상 및 장려상 수상 | - |
-| **Earlier** | 국민대학교 알고리즘 대회 장려상 수상 | - |
-
+---
 
 ### 🛠 Skills
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uss425)](https://solved.ac/profile/uss425/)
@@ -76,3 +48,35 @@
 - **[🔗BackStreet - 3D 액션 로그라이트](https://team-backstreet-2nd.github.io/backstreet.github.io/)**: 팀 리딩 및 클라이언트 총괄, 20회 이상의 프로덕션 릴리즈 관리
 - **[🔗GA 3D Procedural Generator](https://github.com/Oriburger/ue5-genetic-algorithm-map-generator)**: 10만 세대 비동기 시뮬레이션 기반 맵 생성 엔진 (특허 보유)
 - **[🔗Dream Clovers VR Platform](https://github.com/SWM13DoDream/DreamBox)**: UE5 최적화를 통해 60fps 및 30ms 이하 레이턴시 구현
+
+---
+
+### 🏆 Awards & Honors
+| 연도 | 수상 및 선정 내역 | 프로젝트/비고 |
+| :--- | :--- | :--- |
+| **2025** | 숭실대학교 Pre-스타트업 최우수 창업팀 선정 (2위) | BackStreet |
+| **2025** | GIGDC(글로벌 인디 게임 제작 경진대회) 일반부 제작 부문 은상 | BackStreet |
+| **2025** | KOCCA(한국콘텐츠진흥원) 지원사업 우수게임 선정 | BackStreet |
+| **2025** | KOCCA(한국콘텐츠진흥원) 인디게임 제작지원 사업 선정 | BackStreet |
+| **2025** | GDWC(게임 개발 월드 챔피언십) 수상 후보 노미네이트 | BackStreet |
+| **2025** | 서울게임공모전 최종 수상 후보 노미네이트 | BackStreet |
+| **2025** | 스마일게이트 멤버십(SGM) 17기 선정 | BackStreet |
+| **2024** | 숭실대학교 창업경진대회 대상 수상 | BackStreet |
+| **2024** | 유전 알고리즘(GA) 기반 3D 절차적 맵 생성 시스템 특허 출원 | 출원 번호 : 10-2024-0128357 |
+| **2024** | 인디크래프트 챌린저 부문 Top.20 선정 | BackStreet |
+| **2023** | SIGN(대학생 인디게임 네트워크) 우수 구현상 수상 | BackStreet |
+| **2021** | 제1회 이븐아이 게임톤 우수상 수상 | War Magician |
+| **Earlier** | 한국 IT정책경영학회 학술대회 최우수상 | 아이트래킹을 활용한 스마트독서대 |
+| **Earlier** | 숭실대학교 창의공학설계 우수상 수상 | 아이트래킹을 활용한 스마트독서대 |
+| **Earlier** | 정보올림피아드 지역대회 동상 및 장려상 수상 | - |
+| **Earlier** | 국민대학교 알고리즘 대회 장려상 수상 | - |
+
+---
+
+### 📜 Contact & Blog 
+<p>
+  <a href="http://blog.naver.com/uss425" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="mailto:uss425@gmail.com" target="_blank"><img src="https://img.shields.io/badge/uss425@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://solved.ac/uss425" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-0A66C2?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="https://oriburger.notion.site/Study-Note-3b5b604dd6b74c8bbad2b17a9cab2928" target="_blank"><img src="https://img.shields.io/badge/Notion-512DA8?style=flat-square&logo=Notion&logoColor=white"/></a>
+</p>
